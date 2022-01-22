@@ -1,0 +1,11 @@
+.wallet-text {
+  background: #00008b;
+  margin-left: 400px;
+  margin-right: 400px;
+  border-radius: 20px;
+  border: 3px solid black;
+
+}
+.center-text {
+  text-align: center;
+}
