@@ -1,0 +1,55 @@
+body {
+  min-width: 1440px;
+}
+
+.wallet-text {
+  color: #beffc8;
+  font-size: 170%;
+
+}
+.center-text {
+  text-align: center;
+
+}
+ .btn {
+  color: red;
+   font-size: 30px;
+   line-height: 550px;
+   text-align: center;
+   background: #00008b;
+   text-decoration: none;
+   border-radius: 10px;
+   margin-left: 50px;
+   width: 300px;
+   height: 550px;
+   float: left;
+   border: 3px solid black;
+   cursor: pointer;
+}
+.btn:hover {
+  text-decoration: underline;
+  background-color: green;
+}
+  .btn2 {
+  color: red;
+  font-size: 30px;
+  line-height: 550px;
+  text-align: center;
+  background: #00008b;
+  text-decoration: none;
+  border-radius: 10px;
+  margin-right: 50px;
+  width: 300px;
+  height: 550px;
+  float: right;
+  border: 3px solid black;
+  cursor: pointer;
+}
+.btn2:hover {
+  text-decoration: underline;
+  background-color: green
+}
+
+.wallet-color {
+  color: yellow;
+}
